@@ -36,9 +36,9 @@ namespace IskolaGUI
             // 
             // btnTörlés
             // 
-            this.btnTörlés.Location = new System.Drawing.Point(12, 513);
+            this.btnTörlés.Location = new System.Drawing.Point(12, 510);
             this.btnTörlés.Name = "btnTörlés";
-            this.btnTörlés.Size = new System.Drawing.Size(140, 23);
+            this.btnTörlés.Size = new System.Drawing.Size(120, 25);
             this.btnTörlés.TabIndex = 1;
             this.btnTörlés.Text = "Törlés";
             this.btnTörlés.UseVisualStyleBackColor = true;
@@ -46,9 +46,9 @@ namespace IskolaGUI
             // 
             // btnMentés
             // 
-            this.btnMentés.Location = new System.Drawing.Point(170, 513);
+            this.btnMentés.Location = new System.Drawing.Point(172, 510);
             this.btnMentés.Name = "btnMentés";
-            this.btnMentés.Size = new System.Drawing.Size(120, 22);
+            this.btnMentés.Size = new System.Drawing.Size(120, 25);
             this.btnMentés.TabIndex = 2;
             this.btnMentés.Text = "Állomány mentése";
             this.btnMentés.UseVisualStyleBackColor = true;
@@ -59,7 +59,7 @@ namespace IskolaGUI
             this.listBox1.FormattingEnabled = true;
             this.listBox1.Location = new System.Drawing.Point(12, 12);
             this.listBox1.Name = "listBox1";
-            this.listBox1.Size = new System.Drawing.Size(278, 485);
+            this.listBox1.Size = new System.Drawing.Size(280, 472);
             this.listBox1.TabIndex = 3;
             // 
             // Form1

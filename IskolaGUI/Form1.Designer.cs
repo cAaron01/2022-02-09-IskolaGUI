@@ -36,7 +36,7 @@ namespace IskolaGUI
             // 
             // btnTörlés
             // 
-            this.btnTörlés.Location = new System.Drawing.Point(12, 510);
+            this.btnTörlés.Location = new System.Drawing.Point(12, 490);
             this.btnTörlés.Name = "btnTörlés";
             this.btnTörlés.Size = new System.Drawing.Size(120, 25);
             this.btnTörlés.TabIndex = 1;
@@ -46,7 +46,7 @@ namespace IskolaGUI
             // 
             // btnMentés
             // 
-            this.btnMentés.Location = new System.Drawing.Point(172, 510);
+            this.btnMentés.Location = new System.Drawing.Point(172, 490);
             this.btnMentés.Name = "btnMentés";
             this.btnMentés.Size = new System.Drawing.Size(120, 25);
             this.btnMentés.TabIndex = 2;
@@ -66,7 +66,7 @@ namespace IskolaGUI
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(304, 547);
+            this.ClientSize = new System.Drawing.Size(304, 525);
             this.Controls.Add(this.listBox1);
             this.Controls.Add(this.btnMentés);
             this.Controls.Add(this.btnTörlés);
